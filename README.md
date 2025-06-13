@@ -2,7 +2,7 @@
 
 **E-Gradebook** is a C++ console application that simulates an electronic gradebook system. It allows for the management of students, subjects, and grades via a command-line interface. All data is saved in binary files and loaded automatically on startup.
 
-## 📚 Features
+## Features
 
 - Specialized collection classes for:
   - **Students**
@@ -19,7 +19,7 @@
   - `subjectsData.bin`
   - `gradesData.bin`
 
-## 🛠️ Architecture
+## Architecture
 
 - `StudentCollection`, `SubjectCollection`, and `GradeCollection` manage dynamic arrays of entities.
 - Sorting is done after each modification for easy lookup and consistent order.
