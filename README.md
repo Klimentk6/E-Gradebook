@@ -14,10 +14,6 @@
   - Assigning and managing grades
   - Viewing all data through custom commands
 - All user input is handled through a centralized **Command Pattern** architecture.
-- **Binary file persistence** for:
-  - `studentsData.bin`
-  - `subjectsData.bin`
-  - `gradesData.bin`
 
 ## Architecture
 
